@@ -1,6 +1,6 @@
 # Desafio Projeto-2
 
-<img src ="./assets/projetopronto.png" alt ="projeto pronto" > 
+<img src ="./assets/projetopronto.png" width = "250px" alt ="projeto pronto" > 
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
